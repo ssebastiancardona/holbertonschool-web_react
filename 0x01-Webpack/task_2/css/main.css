@@ -1,0 +1,18 @@
+#count {
+	font-weight: bold;
+	display: inline;
+}
+
+button {
+    display: inline;
+    margin-right: 12px;
+}
+
+
+#logo {
+	width: 200px;
+	height: 200px;
+	background: url('https://intranet-projects-files.s3.amazonaws.com/holbertonschool-webstack/581/holberton-logo.jpg');
+	background-position: center;
+	background-size: 200px 200px;
+}
